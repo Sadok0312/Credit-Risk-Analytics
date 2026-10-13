@@ -1,0 +1,12 @@
+Variable,Importance
+num__ratio_endettement,0.26478433717165156
+num__revenu_annuel,0.17277605970626098
+num__montant_credit,0.15544932519977683
+num__score_credit,0.10238653149482682
+num__taux_interet,0.09747821601021937
+num__duree_credit,0.09339248562740489
+num__age,0.07929044487937902
+cat__type_contrat_CDI,0.011654878947963779
+cat__type_contrat_Indépendant,0.008599764479605908
+cat__type_contrat_Sans emploi,0.007915991304713696
+cat__type_contrat_Retraité,0.006271965178197044
